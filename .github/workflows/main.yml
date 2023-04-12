@@ -6,6 +6,7 @@ on:
       - main
     paths-ignore:
       - 'README.md'
+      -  'train.py'
 
 permissions:
   id-token: write
