@@ -1,4 +1,4 @@
-#flask app
+#flask application
 
 from flask import Flask,request,render_template
 from pipeline.predict_pipeline import PredictPipeline
